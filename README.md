@@ -1,6 +1,4 @@
 # Hi there, I'm Joshua Velasco 👋
-
-### 🚀 Who am I?
 I am a **bright Jr. Software Engineer** focused on innovation and implementing solutions under industry standards. I strive to transform disruptive ideas into real, scalable products by applying a comprehensive technical vision.
 
 ### 🏗️ My Focus: Software Architecture & Infrastructure
