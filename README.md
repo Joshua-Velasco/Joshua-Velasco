@@ -1,5 +1,4 @@
 # Hi there, I'm Joshua Velasco 👋
-- **LinkedIn:** [Joshua Adan Velasco Segura](https://www.linkedin.com/in/joshua-adan-velasco-segura-002ab2251) - **Email:** josvela2022@gmail.com
 I am a **bright Jr. Software Engineer** focused on innovation and implementing solutions under industry standards. I strive to transform disruptive ideas into real, scalable products by applying a comprehensive technical vision.
 
 ### 🏗️ My Focus: Software Architecture & Infrastructure
