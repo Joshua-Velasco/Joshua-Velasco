@@ -9,16 +9,10 @@ My professional path is geared toward **Software Architecture**. I don't just de
 **💻 Development**
 - **Languages:** JS, PHP, Java, C#, .NET.
 - **Web:** React, HTML5, CSS3, Tailwind, Laravel (Blade).
-- **APIs:** Design and integration of **RESTful APIs** and other communication protocols.
-
-**🗄️ Database & SysAdmin**
 - **DB Management:** Administration of **PostgreSQL**, **MariaDB** and SQLServer.
 - **Linux Environments:** Configuring Linux environments for database, mail, and web servers.
-- **Workflow:** Team management and development process administration.
-
-**🌐 Infrastructure & Networking**
 - **DevOps:** Docker, Kubernetes, Git, CLI (Power User).
-- **Networking:** Network administration and segmentation using **VLANs**.
+
 
 ### 🚀 Languages & Tools
 <p align="left">
